@@ -2,7 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-pereira-cardoso/)
 
-![EuJoaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuJoaoDev&show_icons=true&theme=dracula)
+![EuJoaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuJoaoDev&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuJoaoDev&layout=compact)
+
 
 #### Technologies used in everyday life:
 
